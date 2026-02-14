@@ -130,6 +130,8 @@ This dataset is not perfectly balanced but **healthy**:
 
 ---
 
+## 🤖 Model Training
+
 ### Train/Test Split
 To preserve class proportions during evaluation:
 
@@ -141,8 +143,6 @@ This ensures:
 - Reliable metrics
 
 ---
-
-## 🤖 Model Training
 
 ### Feature Engineering
 Text fields are converted into numerical vectors using:
